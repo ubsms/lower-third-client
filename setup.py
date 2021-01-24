@@ -8,7 +8,7 @@ setup(
     author='Richard Franks',
     author_email='richard@ubsms.org.uk',
     license='MIT',
-    packages=['liturgyclient'],
+    packages=['lowerthirdclient'],
     install_requires=['amcp-pylib>=0.2.2',
                       'wxpython',                    
                       ],
